@@ -5,3 +5,6 @@ Women Who Code - Days of Code Challenge
 
 January 9, 2024
 I have joined the Women Who Code's Days of Code Challenge, trying to code for 100 consecutive days and creating my project portfolio. This is my first log.
+
+Day 1 
+Python code using if-else statement to check an integer using even/odd number conditions.
