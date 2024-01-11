@@ -8,3 +8,6 @@ I have joined the Women Who Code's Days of Code Challenge, trying to code for 10
 
 Day 1 
 Python code using if-else statement to check an integer using even/odd number conditions.
+
+Day 2
+Python code using basic arithmwetic operartions.
