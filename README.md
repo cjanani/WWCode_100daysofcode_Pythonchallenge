@@ -5,6 +5,7 @@ Women Who Code - Days of Code - Python Challenge
 
 January 9, 2024
 I have joined the Women Who Code's Days of Code Challenge, trying to code for 100 consecutive days and creating my project portfolio. This is my first log for the python challenge.
+I am using this HackerRank link to solve Python problems - [HackerRank](https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-introduction)
 
 Day 1 
 Python code using if-else statement to check an integer using even/odd number conditions.
