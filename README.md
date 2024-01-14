@@ -10,5 +10,9 @@ I am using this HackerRank link to solve Python problems - [HackerRank](https://
 Day 1 
 Python code using if-else statement to check an integer using even/odd number conditions.
 
-Day 2
-Python code using basic arithmwetic operartions.
+Day 2 
+Python code using basic arithmetic operartions.
+
+14 Jan 
+Day 3 
+Python code using division operartion.
