@@ -16,3 +16,6 @@ Python code using basic arithmetic operartions.
 14 Jan 
 Day 3 
 Python code using division operartion.
+
+Day 4
+Python code using loops to find square of all the numbers until the given number.
